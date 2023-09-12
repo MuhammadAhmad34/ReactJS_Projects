@@ -26,7 +26,7 @@ If you're new to ReactJS or want to explore any of these projects, here's how yo
 
 1. Clone this repository on your local machine.
    ``` shell
-   git clone https://github.com/your-username/reactjs-projects.git
+   git clone https://github.com/MuhammadAhmad34/ReactJS_Projects.git
    ```
 # Contact
 
