@@ -17,7 +17,7 @@ Make sure you have the following software installed on your machine:
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/MuhammadAhmad34/react-simple-calculator.git
+   git clone (https://github.com/MuhammadAhmad34/ReactJS_Projects/tree/master/Simple%20Calculator)
    ```
 
    Replace `your-username` with your GitHub username.
@@ -80,8 +80,8 @@ This calculator application was built as a simple example of using ReactJS for w
 
 If you have any questions or feedback, feel free to reach out to the project maintainer:
 
-- Your Name
-- Email: your@email.com
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Myhammad Ahmad Amjad  
+- Email: m.ahmadamjad21@gmail.com
+- GitHub: [https://github.com/MuhammadAhmad34](https://github.com/MuhammadAhmad34)
 
 Enjoy using the Simple Calculator!
